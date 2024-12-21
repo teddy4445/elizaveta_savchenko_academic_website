@@ -1,0 +1,100 @@
+{
+   "publications":[
+	{
+         "name":"A mathematical framework of SMS reminder campaigns for pre- and post-diagnosis check-ups using socio-demographics: An in-silco investigation into breast cancer",
+         "description":"Timely pre- and post-diagnosis check-ups are critical for various diseases, in general, and for cancer , in particular, as these often lead to better outcomes. Several socio-demographic properties have been identified as strongly connected with both clinical dynamics and (indirectly) with different individual check-up behaviors. Unfortunately, existing check-up policies typically consider only the former association explicitly. In this work, we propose a novel computational framework, accompanied by a high-resolution computer simulation, to investigate and optimize socio-demographic-based Short Messaging Service (SMS) reminder campaigns for check-ups. We demonstrate our computational framework using extensive real-world data from the United States (US) population, focusing on breast cancer. Our results indicate that optimizing an SMS reminder campaign based solely on simple socio-demographic features can bring about a statistically significant reduction in mortality rate compared to alternative campaigns. These results indicate SMS reminder campaigns for pre- and post-diagnosis check-ups can be instrumental in improving healthcare outcomes. However, additional research is needed to bring about applicative tools.",
+         "fileLinks":[{"info": "download", "type": 1, "link": "/files/8.pdf"},
+					  {"info": "cite", "type": 3, "link": "Savchenko, E., Rosenfeld, A., Bunimovich-Mendrazitsky, S., A mathematical framework of SMS reminder campaigns for pre- and post-diagnosis check-ups using socio-demographics: An in-silco investigation into breast cancer. Socio-Economic Planning Sciences. 2024."}],
+		 "authors": "Elizaveta Savchenko, Ariel Rosenfeld, Svetlana Bunimovich-Mendrazitsky",
+         "year": 2024,
+         "topic":"DS",
+         "type":"Paper",
+         "publisher":"Socio-Economic Planning Sciences",
+         "publicationStatus":"Published"
+      },
+	{
+         "name":"Socio-demographic predictors of the time interval between successive hospitalizations among patients with borderline personality disorder",
+         "description":"Background: Borderline personality disorder (BPD) affects 0.7 to 2.7% of the adult population and higher rates are reported in inpatient care. Hospitalizations of BPD patients are a complex and controversial challenge for mental health professionals. Recurrent hospitalizations are common and it is essential to identify risk factors that characterize patients who benefit from their hospitalization and those who return to the ward shortly after discharge. Aim: To investigate the potential link between BPD patients’ socio-demographic factors and the expected time interval between their successive hospitalizations. Methods: A retrospective analysis of 1051 hospitalization records from 174 BPD patients. Through univariate, bivariate, and multivariate analyses, we investigated the possible relationship between patients’ primary socio-demographic factors and the time between their successive hospitalizations. Results: Patients’ age, marital status, and living arrangement were found to be statistically connected with the time interval between successive hospitalizations. Specifically, being older, married and/or patients to live with one’s spouse/partner seem to be linked with a longer time interval between successive hospitalizations compared to patients who are young, single/divorced and/or those who live with their parents. Conclusions: The expected time interval between successive hospitalization of BPD patients can be partly explained by their socio-demographic characteristics.",
+         "fileLinks":[{"info": "download", "type": 1, "link": "/files/7.pdf"},
+					  {"info": "cite", "type": 3, "link": "Yaniv-Rosenfled, A., Savchenko, E., Elalouf, A., Nitzan, U., Socio-demographic predictors of the time interval between successive hospitalizations among patients with borderline personality disorder. Journal of Mental Health. 2024."}],
+		 "authors": "Amit Yaniv-Rosenfeld, Elizaveta Savchenko, Amir Elalouf, Uri Nitzan ",
+         "year": 2024,
+         "topic":"Clinical DS",
+         "type":"Paper",
+         "publisher":"Journal of Mental Health",
+         "publicationStatus":"Published"
+      },
+	{
+         "name":"Socio-demographic Predictors of Hospitalization Duration Among Patients with Borderline Personality Disorder",
+         "description":"Borderline personality disorder (BPD) is a complex psychopathology associated with high service utilization rates. In turn, the hospitalization of BPD patients is a controversial challenge for mental health professionals. Prior literature has identified certain socio-demographic factors as linked to an increased risk of BPD. In this study, we examined the possible connection between these socio-demographic factors and hospitalization duration. We analyzed 1077 hospitalization records of 200 BPD-diagnosed patients. Patients’ gender, age, education level, employment and marital statuses, and living arrangement were statistically significantly linked with hospitalization duration. Specifically, female gender, age twenty or below, no high-school diploma (or, to a lesser extent, a diploma with no academic education), unemployment status and/or patients who live with parents are strongly associated with longer hospitalizations compared to male gender, older patients, more educated, married/divorced status and/or those who do not live with their parents. Additionally, the results point to a weak, albeit statistically significant, temporal pattern with more advanced hospitalizations generally aligning with the duration of their preceding ones, while being slightly shorter. In order to prevent potentially unnecessary prolonged and regressive hospitalizations, an estimation of the expected hospitalization duration should be explicitly considered when setting hospitalization goals and plans.",
+         "fileLinks":[{"info": "download", "type": 1, "link": "/files/6.pdf"},
+					  {"info": "cite", "type": 3, "link": "Yaniv-Rosenfled, A., Savchenko, E., Netzer, M., Elalouf, A., Nitzan, U., Socio-demographic Predictors of Hospitalization Duration Among Patients with Borderline Personality Disorder. Administration and Policy in Mental Health and Mental Health Services Research. 2024."}],
+		 "authors": "Amit Yaniv-Rosenfeld, Elizaveta Savchenko, Maya Netzer, Amir Elalouf, Uri Nitzan ",
+         "year": 2024,
+         "topic":"Clinical DS",
+         "type":"Paper",
+         "publisher":"Administration and Policy in Mental Health and Mental Health Services Research",
+         "publicationStatus":"Published"
+      },
+	{
+         "name":"Investigation toward the economic feasibility of personalized medicine for healthcare service providers: the case of bladder cancer",
+         "description":"In today's complex healthcare landscape, the pursuit of delivering optimal patient care while navigating intricate economic dynamics poses a significant challenge for healthcare service providers (HSPs). In this already complex dynamic, the emergence of clinically promising personalized medicine-based treatment aims to revolutionize medicine. While personalized medicine holds tremendous potential for enhancing therapeutic outcomes, its integration within resource-constrained HSPs presents formidable challenges. In this study, we investigate the economic feasibility of implementing personalized medicine. The central objective is to strike a balance between catering to individual patient needs and making economically viable decisions. Unlike conventional binary approaches to personalized treatment, we propose a more nuanced perspective by treating personalization as a spectrum. This approach allows for greater flexibility in decision-making and resource allocation. To this end, we propose a mathematical framework to investigate our proposal, focusing on Bladder Cancer (BC) as a case study. Our results show that while it is feasible to introduce personalized medicine, a highly efficient but highly expensive one would be short-lived relative to its less effective but cheaper alternative as the latter can be provided to a larger cohort of patients, optimizing the HSP's objective better.",
+         "fileLinks":[{"info": "download", "type": 1, "link": "/files/5.pdf"},
+					  {"info": "cite", "type": 3, "link": "Savchenko, E., Bunimovich-Mendrazitsky, S., Investigation toward the economic feasibility of personalized medicine for healthcare service providers: the case of bladder cancer. Frontiers in Medicine. 2024."}],
+		 "authors": "Elizaveta Savchenko, Svetlana Bunimovich-Mendrazitsky",
+         "year": 2024,
+         "topic":"DS",
+         "type":"Paper",
+         "publisher":"Frontiers in Medicine",
+         "publicationStatus":"Published"
+      },
+	{
+         "name":"Authorship conflicts in academia: an international cross-discipline survey",
+         "description":"Collaboration among scholars has emerged as a significant characteristic of contemporary science. As a result, the number of authors listed in publications continues to rise steadily. Unfortunately, determining the authors to be included in the byline and their respective order entails multiple difficulties which often lead to conflicts. Despite the large volume of literature about conflicts in academia, it remains unclear how exactly these are distributed over the main socio-demographic properties, as well as the different types of interactions academics experience. To address this gap, we conducted an international and cross-disciplinary survey answered by 752 academics from 41 fields of research and 93 countries that statistically well-represent the overall academic workforce. Our findings are concerning and suggest that conflicts over authorship credit arise very early in one’s academic career, even at the level of Master and Ph.D., and become increasingly common over time.",
+         "fileLinks":[{"info": "download", "type": 1, "link": "/files/4.pdf"},
+					  {"info": "cite", "type": 3, "link": "Savchenko, E., Rosenfeld, A., Authorship conflicts in academia: an international cross-discipline survey. Scientometrics. 2024."}],
+		 "authors": "Elizaveta Savchenko, Ariel Rosenfeld, Svetlana Bunimovich-Mendrazitsky",
+         "year": 2024,
+         "topic":"Scientometrics",
+         "type":"Paper",
+         "publisher":"Scientometrics",
+         "publicationStatus":"Published"
+      },
+	{
+         "name":"Mathematical modeling of BCG-based bladder cancer treatment using socio-demographics",
+         "description":"Cancer is one of the most widespread diseases around the world with millions of new patients each year. Bladder cancer is one of the most prevalent types of cancer affecting all individuals alike with no obvious “prototypical patient”. The current standard treatment for BC follows a routine weekly Bacillus Calmette-Guérin (BCG) immunotherapy-based therapy protocol which is applied to all patients alike. The clinical outcomes associated with BCG treatment vary significantly among patients due to the biological and clinical complexity of the interaction between the immune system, treatments, and cancer cells. In this study, we take advantage of the patient’s socio-demographics to offer a personalized mathematical model that describes the clinical dynamics associated with BCG-based treatment. To this end, we adopt a well-established BCG treatment model and integrate a machine learning component to temporally adjust and reconfigure key parameters within the model thus promoting its personalization. Using real clinical data, we show that our personalized model favorably compares with the original one in predicting the number of cancer cells at the end of the treatment, with 14.8% improvement, on average.",
+         "fileLinks":[{"info": "download", "type": 1, "link": "/files/3.pdf"},
+					  {"info": "cite", "type": 3, "link": "Savchenko, E., Rosenfeld, A., Bunimovich-Mendrazitsky, S., Mathematical modeling of BCG-based bladder cancer treatment using socio-demographics. Scientific Reports. 2023."}],
+		 "authors": "Elizaveta Savchenko, Ariel Rosenfeld",
+         "year": 2023,
+         "topic":"DS",
+         "type":"Paper",
+         "publisher":"Scientific Reports",
+         "publicationStatus":"Published"
+      },
+	{
+         "name":"Scheduling BCG and IL-2 Injections for Bladder Cancer Immunotherapy Treatment",
+         "description":"Cancer is one of the most common families of diseases today with millions of new patients every year around the world. Bladder cancer (BC) is one of the most prevalent types of cancer affecting both genders, and it is not known to be associated with a specific group in the population. The current treatment standard for BC follows a standard weekly Bacillus Calmette–Guérin (BCG) immunotherapy-based therapy protocol which includes BCG and IL-2 injections. Unfortunately, due to the biological and clinical complexity of the interactions between the immune system, treatment, and cancer cells, clinical outcomes vary significantly among patients. Unfortunately, existing models are commonly developed for a non-existing average patient or pose strict, unrealistic, expectations on the treatment process. In this work, we propose the most extensive ordinary differential equation-based biological model of BCG treatment to date and a deep learning-based scheduling approach to obtain a personalized treatment schedule. Our results show that resulting treatment schedules favorably compare with the current standard practices and the current state-of-the-art scheduling approach.",
+         "fileLinks":[{"info": "download", "type": 1, "link": "/files/2.pdf"},
+					  {"info": "cite", "type": 3, "link": "Yaniv-Rosenfeld, A., Savchenko, E., Rosenfeld, A., Lazebnik, T., Scheduling BCG and IL-2 Injections for Bladder Cancer Immunotherapy Treatment. Mathematics. 2023."}],
+		 "authors": "Amit Yaniv-Rosenfeld, Elizaveta Savchenko, Ariel Rosenfeld, Teddy Lazebnik",
+         "year": 2023,
+         "topic":"DS",
+         "type":"Paper",
+         "publisher":"Mathematics",
+         "publicationStatus":"Published"
+      },
+      {
+         "name":"Computer aided functional style identifcation and correction in modern Russian texts",
+         "description":"Functional style (FS) identification is a classification task in linguistics that categorizes unrestricted texts into several categories of linguistic norms. FS is widely used to attain a satisfying outcome in style processing. As such, we train a deep learning attention neural network model on modern-Russian texts, divide them into four FS categories. The model obtained an accuracy of 0.72. In particular, 81.08% and 85.71% accuracy in classifying the artistic and academic FS. The proposed model is able to automate the FS identification process and aids both domain experts and non-domain experts to perform FS correction by highlighting style anomalies concerning a desired style for the text. In particular, we show a 34% and 31% average improvement in the duration of performing the style correction task. Moreover, domain experts and non-domain experts obtain 3% and 9% more accurate results, respectively.",
+         "fileLinks":[{"info": "download", "type": 1, "link": "/files/1.pdf"},
+					  {"info": "cite", "type": 3, "link": "Savchenko, E., Lazebnik, T., Computer aided functional style identifcation and correction in modern russian texts. Journal of Data, Information and Management. 2022."}],
+		 "authors": "Elizaveta Savchenko, Teddy Lazebnik",
+         "year": 2022,
+         "topic":"DS",
+         "type":"Paper",
+         "publisher":"Journal of Data, Information and Management",
+         "publicationStatus":"Published"
+      }
+  ]
+}

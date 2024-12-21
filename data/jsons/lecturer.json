@@ -1,0 +1,21 @@
+{
+	"position": "PhD student",
+	"field": "Social Data Science",
+	"addresses":
+	[
+		{
+			"university":"Ariel",
+			"location": "",
+			"hours": ""
+		}
+	],
+	"phone": "",
+	"email": "",
+	"linkedin_link": "",
+	"google_scholar_link": "https://scholar.google.com/citations?user=1efXNy0AAAAJ&hl=ru",
+	"facebook_link": "",
+	"github_link": "",
+	"bitbucket_link": "",
+	"name":"Elizaveta Savchenko",
+	"cvfile":"/files/cv.pdf"
+}

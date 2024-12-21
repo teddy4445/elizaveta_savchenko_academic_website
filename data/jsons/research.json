@@ -1,0 +1,32 @@
+{
+	"work_with_me_opening": "I am intrested in data-driven studies for social policy design and the usage of socio-demographic data in clinican treatment management.",
+	"open_positions": [
+
+	],
+	"projects": [{
+			"name": "PhD study -",
+			"participants": [{
+				"name": "Svetlana Bunimovich-Mendrazitsky",
+				"title": "Prof'",
+				"role": "Advisor",
+				"websiteLink": "",
+				"googleLink": "",
+				"linkedinLink": ""
+			},{
+				"name": "Svetlana Ariel Rosenfeld",
+				"title": "Prof'",
+				"role": "Advisor",
+				"websiteLink": "",
+				"googleLink": "",
+				"linkedinLink": ""
+			}],
+			"description": "In this study, we first collect a dataset about the socio-demographic, economic, and healthcare preferences with cancer screening behavior. Next, we leverage ML techniques to examine the socio-demographic determinants of cancer screening behaviors. Using the obtained model and a in silico simulation, we examine personalized policy design for policymakers.",
+			"start_month": 7,
+			"start_year": 2024,
+			"end_month": 10,
+			"end_year": 2025,
+			"team_members": 3,
+			"relevant_resources": []
+		},
+	]
+}
