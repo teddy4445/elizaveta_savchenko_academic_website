@@ -4,13 +4,13 @@
 	"addresses":
 	[
 		{
-			"university":"Ariel",
+			"university":"Ariel university",
 			"location": "",
 			"hours": ""
 		}
 	],
-	"phone": "",
-	"email": "",
+	"phone": "NA",
+	"email": "elizaveta.lazebnik (at) gmail.com",
 	"linkedin_link": "",
 	"google_scholar_link": "https://scholar.google.com/citations?user=1efXNy0AAAAJ&hl=ru",
 	"facebook_link": "",
